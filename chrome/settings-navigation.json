@@ -104,6 +104,11 @@
             "appId": "learningResources",
             "title": "Learning Resources",
             "href": "/settings/learning-resources"
+        },
+        {
+            "appId": "quay-ui",
+            "title": "Quay",
+            "href": "/settings/quay"
         }
     ]
 }
